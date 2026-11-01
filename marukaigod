@@ -1,0 +1,4 @@
+getgenv().Key = "MARU-CQSXE-C5SH-RNNL-63PPP-Q12TI"
+getgenv().id = "1402257125400514651"
+getgenv().Script_Mode = "Kaitun_Script"
+loadstring(game:HttpGet("https://cdn.maruhub.online/s/mobile"))()
